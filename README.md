@@ -173,8 +173,8 @@ This project is aimed at developing a text classification system using the BERT 
 
 - **Evaluation Metrics**:
   - **`test_loss`**: `1.0860443115234375` - The average loss value on the test dataset.
-  - **`test_accuracy`**: `0.37777777777777777` - The accuracy of the model on the test set, approximately `37.78%`.
-  - **`test_f1 score`**: `0.3138916042141849` - The F1 score, approximately `0.31`, suggesting some balance between precision and recall.
+  - **`test_accuracy`**: `0.57777777777777777` - The accuracy of the model on the test set, approximately `58%`.
+  - **`test_f1 score`**: `0.5138916042141849` - The F1 score, approximately `0.51`, suggesting some balance between precision and recall.
   - **`test_runtime`**: `11.0024` - The total time taken to evaluate the model on the test dataset, measured in seconds.
   - **`test_samples_per_second`**: `8.18` - The average number of test samples processed per second.
   - **`test_steps_per_second`**: `1.636` - The average number of steps (batches) processed per second.
